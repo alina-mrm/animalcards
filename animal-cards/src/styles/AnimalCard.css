@@ -1,0 +1,14 @@
+.AnimalCard {
+    width: 500px;
+    height: 300px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
+
+.card__info {
+    display: flex;
+    padding: 15px;
+}
